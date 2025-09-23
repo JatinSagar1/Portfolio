@@ -26,10 +26,7 @@ export default function Hero() {
         <a href="#projects" className="btn primary">
           View Projects
         </a>
-        <a   href="https://mail.google.com/mail/?view=cm&to=jjatinsagar@gmail.com"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="btn">
+        <a href="https://mail.google.com/mail/?view=cm&to=jjatinsagar@gmail.com" target="_blank" rel="noopener noreferrer" className="btn">
           Contact Me
         </a>
       </div>
